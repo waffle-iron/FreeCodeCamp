@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/syronTill/FreeCodeCamp.png?label=ready&title=Ready)](https://waffle.io/syronTill/FreeCodeCamp)
 ![](https://s3.amazonaws.com/freecodecamp/wide-social-banner.png)
 
 [![Throughput Graph](https://graphs.waffle.io/freecodecamp/freecodecamp/throughput.svg)](https://waffle.io/freecodecamp/freecodecamp/metrics)
